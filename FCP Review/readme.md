@@ -12,4 +12,5 @@ All students are required to know the following concepts:
 Complementary Materials:
 1. https://www.py4e.com/lessons (Chapters 3-11)
 2. https://www.hackerrank.com/domains/python (solve problems)
-3. https://edabit.com/challenges (python challenges)
+3. https://edabit.com/challenges (Python Challenges)
+4. https://quera.org/problemset?tag=22&tag=1 (Quera Problemsets)
