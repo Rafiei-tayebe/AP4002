@@ -1,0 +1,6 @@
+# Memory Sharing
+# Inter Process Communication (IPC) | Inter Thread Communication (ITC)
+1. Message Passing
+2. Shared Memory (you can share information with multiple threads)
+    - easier when using threads because threads share the same memory
+    - example: letter frequency counter

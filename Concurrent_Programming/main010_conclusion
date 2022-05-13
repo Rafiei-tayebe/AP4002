@@ -1,0 +1,9 @@
+# When to use Python threading
+
+There’re two main tasks:
+
+1. I/O-bound tasks – the time spending on I/O significantly more than the time spending on computation
+2. CPU-bound tasks – the time spending on computation is significantly higher than the time waiting for I/O.
+
+Python threading is optimized for I/O bound tasks.
+For example, requesting remote resources, connecting a database server, or reading and writing files.

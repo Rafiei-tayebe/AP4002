@@ -1,0 +1,1 @@
+print(f"first module's name is {__name__}")
